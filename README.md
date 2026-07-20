@@ -1,3 +1,5 @@
+
+
 1. File Handling Mini Project
 
 
@@ -9,7 +11,6 @@ Features
 - Search a student by roll number
 - Update student details
 - Delete a student record
-
 
 2. NumPy Mini Project
 
@@ -23,5 +24,6 @@ This project is created using **NumPy**, a powerful Python library used for nume
 
 
 
-Author
+Author:
+
 Visha Sherkhane

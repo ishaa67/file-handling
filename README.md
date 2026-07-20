@@ -1,6 +1,6 @@
- Student Record Management System
+1. File Handling Mini Project
 
-About
+
 This is a simple Python mini project that uses **File Handling** to store and manage student records.
 
 Features
@@ -9,3 +9,19 @@ Features
 - Search a student by roll number
 - Update student details
 - Delete a student record
+
+
+2. NumPy Mini Project
+
+This project is created using **NumPy**, a powerful Python library used for numerical computing.
+ 
+ Features:
+- Creating and working with NumPy arrays
+- Performing mathematical operations
+- Array manipulation
+- Basic data analysis using NumPy functions
+
+
+
+Author
+Visha Sherkhane
